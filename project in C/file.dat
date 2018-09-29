@@ -1,0 +1,22 @@
+Number of layers: 3
+Layer neurons0: 2
+Layer neurons1: 3
+Layer neurons2: 1
+Load weights? cero=NO one=SI: 1
+Layer weights1:
+Weight(0,0): -0.740556 
+Weight(0,1): -0.727738 
+Umbral(0): 0.245223 
+Weight(1,0): -0.701171 
+Weight(1,1): -0.666136 
+Umbral(1): 0.114089 
+Weight(2,0): -0.699789 
+Weight(2,1): -0.495682 
+Umbral(2): 0.114404 
+
+Layer weights2:
+Weight(0,0): -1.118044 
+Weight(0,1): -0.735342 
+Weight(0,2): -0.732168 
+Umbral(0): -1.347353 
+
